@@ -1,4 +1,4 @@
-language: ruby
+language: node_js
 script:
   - chmod +x create_files.sh
   - bash -c create_files.sh
