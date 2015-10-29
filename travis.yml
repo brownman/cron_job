@@ -1,4 +1,4 @@
 language: python
 script:
-  - chmod +x file
+  - chmod +x create_files.sh
   - bash -c create_files.sh
