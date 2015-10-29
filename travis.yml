@@ -1,0 +1,4 @@
+language: python
+script:
+  - chmod +x file
+  - bash -c create_files.sh
